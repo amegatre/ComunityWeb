@@ -2,7 +2,7 @@ body{
     font-style: italic;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    text-align: center;
+    
 }
 
 h1{
@@ -18,4 +18,16 @@ button{
     animation: infinite;
 }
 
-{}
+h2{
+    color: greenyellow;
+}
+
+a{
+    color: violet;
+    border: 30px;
+    border-color: black   ;
+    font-size: 30px;
+    background-color: blueviolet;
+    animation: infinite;
+
+}
